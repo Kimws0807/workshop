@@ -10,3 +10,6 @@ kubectl scale deployment nginx --replicas=20
 
 ##### Service Port 80으로 설정 #####
 kubectl.exe expose deployment/nginx --type="NodePort" --port=80
+
+### 최종결과 ###
+![](Deployment.JPG)
