@@ -1,1 +1,1 @@
-# workshop
+docker build --rm -t kimws0807/workshop
